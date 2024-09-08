@@ -1,0 +1,5 @@
+#!/bin/bash
+
+nitrogen ../img
+
+exec --no-startup-id nitrogen --restore
